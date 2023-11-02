@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class Praktikum {
     public static void main(String[] args) {
-        //double[] expenses = new double[7]; // Должно стать полем нового класса
-
+        
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Сколько денег у вас осталось до зарплаты?");
